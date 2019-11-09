@@ -1,0 +1,90 @@
+{
+    "err": 0,
+    "msg": "success",
+    "data": [
+        {   
+            "type": "0",
+            "cate": "男鞋",
+            "data": [
+                {
+                    "title": "热卖分类",
+                    "data": [
+                        {
+                            "src": "https://img12.360buyimg.com/focus/s140x140_jfs/t12970/248/784792784/3062/9cc4be84/5a13957cN60262247.jpg", 
+                            "desc": "休闲鞋"
+                        },
+                        {
+                            "src": "https://img12.360buyimg.com/focus/s140x140_jfs/t11089/341/2234800375/3425/8950afe8/5a139577N054caadb.jpg", 
+                            "desc": "皮鞋"
+                        },
+                        {
+                            "src": "https://img30.360buyimg.com/focus/s140x140_jfs/t11992/144/2244194535/2627/3de251a9/5a139564Naee94e4a.jpg", 
+                            "desc": "帆布鞋"
+                        }
+                    ]
+                },
+                {   
+                    
+                    "title": "国际大牌",
+                    "data": [
+                        {
+                            "src": "https://img13.360buyimg.com/focus/s140x140_jfs/t13429/91/771126144/2287/4f9d9007/5a139121N645b8740.jpg", 
+                            "desc": "沙驰"
+                        },
+                        {
+                            "src": "https://img10.360buyimg.com/focus/s140x140_jfs/t12718/66/791679153/7506/b0d2699d/5a13912cNc653e03c.jpg", 
+                            "desc": "CAT"
+                        },
+                        {
+                            "src": "https://img11.360buyimg.com/focus/s140x140_jfs/t13423/117/752865106/5078/3614cdbe/5a139131N8561ffb2.jpg", 
+                            "desc": "Palladium"
+                        }
+                    ]
+                }
+            ]
+
+        },
+        {   
+            "type" :"1",
+            "cate": "农资绿植",
+            "data": [
+                {
+                    "title": "花卉绿植",
+                    "data": [
+                        {
+                            "src": "https://img13.360buyimg.com/focus/s140x140_jfs/t13615/257/1187221579/8566/1203946a/5a1bdd89Nac28d508.jpg", 
+                            "desc": "花卉"
+                        },
+                        {
+                            "src": "https://img20.360buyimg.com/focus/s140x140_jfs/t11932/362/2606950706/9339/34ddf4e9/5a1bdd83N72924bf0.jpg", 
+                            "desc": "绿植盆栽"
+                        },
+                        {
+                            "src": "https://img10.360buyimg.com/focus/s140x140_jfs/t12889/279/1193794170/6942/5fd1f0f0/5a1bdd8dN5d74bd85.jpg", 
+                            "desc": "多肉植物"
+                        }
+                    ]
+                },
+                {
+                    "title": "种子",
+                    "data": [
+                        {
+                            "src": "https://img13.360buyimg.com/focus/s140x140_jfs/t11854/206/2608610926/11359/16925d51/5a1bdd6aNf4a822a5.jpg", 
+                            "desc": "瓜果类"
+                        },
+                        {
+                            "src": "https://img11.360buyimg.com/focus/s140x140_jfs/t13972/188/1157209068/12079/e171526b/5a1bdd6bNdbeed42b.jpg", 
+                            "desc": "花草类"
+                        },
+                        {
+                            "src": "https://img20.360buyimg.com/focus/s140x140_jfs/t13300/247/1181995434/11970/7f9906c5/5a1bdd74Nb4795bcd.jpg", 
+                            "desc": "蔬菜/菌类"
+                        }
+                    ]
+                }
+            ]
+
+        }
+    ]
+
+}
